@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Sainee.
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL
+- 👋 Hi,
 - 📫 Let's connect https://www.linkedin.com/in/sainee-sen-gupta/
 
 <!---
